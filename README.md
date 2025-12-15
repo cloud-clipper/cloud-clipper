@@ -5,7 +5,7 @@
 
 
 - ⚡I’m **AZ-900** Certified 
-- 🌱 I’m currently learning **Azure Administration along with Redhat Linux Administration**
+- 🌱 I’m currently learning **Azure Administration (AZ-104) along with Redhat Linux Administration (RCSA)**
 
 - 💬 Ask me about **Azure and Linux**
 
