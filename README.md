@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloud-clipper&label=Profile%20views&color=0e75b6&style=flat" alt="cloud-clipper" /> </p>
 
 
-
+- ⚡I’m **AZ-900** Certified 
 - 🌱 I’m currently learning **Azure Administration along with Redhat Linux Administration**
 
 - 💬 Ask me about **Azure and Linux**
